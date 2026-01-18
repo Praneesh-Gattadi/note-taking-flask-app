@@ -30,7 +30,9 @@ A simple Flask-based note taking application where users can add notes and view 
 
 ## Application GUI
 
+<img width="1090" height="418" alt="Image" src="https://github.com/user-attachments/assets/6ed53f9a-e484-4113-b987-6ef45780712b" />
+
 <img width="1022" height="509" alt="Image" src="https://github.com/user-attachments/assets/aef52bc8-0002-4e8a-9e3b-da4ea2be0d1f" />
 
 
-<img width="1090" height="418" alt="Image" src="https://github.com/user-attachments/assets/6ed53f9a-e484-4113-b987-6ef45780712b" />
+
